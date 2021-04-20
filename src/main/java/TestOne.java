@@ -1,11 +1,11 @@
 public class TestOne {
-    private String ret2;
+    private String ret;
 
     public String getRet() {
-        return ret2;
+        return ret;
     }
 
     public void setRet(String ret2) {
-        this.ret2 = ret2;
+        this.ret2 = ret;
     }
 }
